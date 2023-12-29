@@ -1,7 +1,5 @@
 # My-first-repo
 
-
 This is my first repository
 <br>
-Created By- Ashirwad Kumar
-
+Created By- Ashirwad Kumar Baranwal
